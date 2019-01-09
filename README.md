@@ -1,4 +1,4 @@
-# Project-4-Applications-of-Clustering-Models
+# Comparing Stocks performace using Clustering
 
 We have dataset of around 500 stocks. Using this dataset we will be predicting:
 
